@@ -1,0 +1,11 @@
+C:\dev\c_sharp\fundamentals\04_basic-13\bin\Debug\netcoreapp2.1\04_basic-13.deps.json
+C:\dev\c_sharp\fundamentals\04_basic-13\bin\Debug\netcoreapp2.1\04_basic-13.runtimeconfig.json
+C:\dev\c_sharp\fundamentals\04_basic-13\bin\Debug\netcoreapp2.1\04_basic-13.runtimeconfig.dev.json
+C:\dev\c_sharp\fundamentals\04_basic-13\bin\Debug\netcoreapp2.1\04_basic-13.dll
+C:\dev\c_sharp\fundamentals\04_basic-13\bin\Debug\netcoreapp2.1\04_basic-13.pdb
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.csprojAssemblyReference.cache
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.csproj.CoreCompileInputs.cache
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.AssemblyInfoInputs.cache
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.AssemblyInfo.cs
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.dll
+C:\dev\c_sharp\fundamentals\04_basic-13\obj\Debug\netcoreapp2.1\04_basic-13.pdb

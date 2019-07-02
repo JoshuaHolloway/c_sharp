@@ -1,0 +1,11 @@
+C:\dev\c_sharp\fundamentals\00_funds-1\bin\Debug\netcoreapp2.1\00_funds-1.deps.json
+C:\dev\c_sharp\fundamentals\00_funds-1\bin\Debug\netcoreapp2.1\00_funds-1.runtimeconfig.json
+C:\dev\c_sharp\fundamentals\00_funds-1\bin\Debug\netcoreapp2.1\00_funds-1.runtimeconfig.dev.json
+C:\dev\c_sharp\fundamentals\00_funds-1\bin\Debug\netcoreapp2.1\00_funds-1.dll
+C:\dev\c_sharp\fundamentals\00_funds-1\bin\Debug\netcoreapp2.1\00_funds-1.pdb
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.csprojAssemblyReference.cache
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.csproj.CoreCompileInputs.cache
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.AssemblyInfoInputs.cache
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.AssemblyInfo.cs
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.dll
+C:\dev\c_sharp\fundamentals\00_funds-1\obj\Debug\netcoreapp2.1\00_funds-1.pdb

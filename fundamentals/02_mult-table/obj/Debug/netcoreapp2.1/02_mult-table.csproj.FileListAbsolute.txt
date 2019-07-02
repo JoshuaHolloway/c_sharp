@@ -1,0 +1,11 @@
+C:\dev\c_sharp\fundamentals\02_mult-table\bin\Debug\netcoreapp2.1\02_mult-table.deps.json
+C:\dev\c_sharp\fundamentals\02_mult-table\bin\Debug\netcoreapp2.1\02_mult-table.runtimeconfig.json
+C:\dev\c_sharp\fundamentals\02_mult-table\bin\Debug\netcoreapp2.1\02_mult-table.runtimeconfig.dev.json
+C:\dev\c_sharp\fundamentals\02_mult-table\bin\Debug\netcoreapp2.1\02_mult-table.dll
+C:\dev\c_sharp\fundamentals\02_mult-table\bin\Debug\netcoreapp2.1\02_mult-table.pdb
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.csprojAssemblyReference.cache
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.csproj.CoreCompileInputs.cache
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.AssemblyInfoInputs.cache
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.AssemblyInfo.cs
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.dll
+C:\dev\c_sharp\fundamentals\02_mult-table\obj\Debug\netcoreapp2.1\02_mult-table.pdb
