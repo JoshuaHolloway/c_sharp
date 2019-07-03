@@ -3,27 +3,36 @@ namespace HelloASP
 {
     public class HomeController : Controller
     {
+        //---------------------------------------------------------------------
         // Requests
         // localhost:5000
-        [Route("")]
-        [HttpGet]
-        public string Index()
+        [HttpGet("")]
+        public ViewResult Index()
         {
-            return "This is my index";
+            // return "This is my index";
+            ViewResult  myView = View("Home");
+            return myView;
         }
-
+        //---------------------------------------------------------------------
         // localhost:5000/projects
-        [Route("projects")]
-        public string Projects()
+        // [Route("projects")]
+        [HttpGet("projects")]
+        public ViewResult Projects()
         {
-            return "These are my projects";
+            // return "These are my projects";
+            ViewResult myView = View("Projects");
+            return myView;
         }
-
+        //---------------------------------------------------------------------
         // localhost:5000/hello
-        [Route("contacts")]
-        public string Contacts()
+        // [Route("contacts")]
+        [HttpGet("contact")]
+        public ViewResult Contacts()
         {
-            return "This is my Contact!";
+            // return "This is my Contact!";
+            ViewResult myView = View("Contact");
+            return myView;
         }
+        //---------------------------------------------------------------------
     }
 }

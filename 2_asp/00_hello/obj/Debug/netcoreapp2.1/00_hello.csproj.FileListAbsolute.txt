@@ -15,9 +15,12 @@ C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.pdb
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.TagHelpers.input.cache
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.TagHelpers.output.cache
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.RazorCoreGenerate.cache
-C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.RazorTargetAssemblyInfo.cs
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.Views.pdb
 C:\dev\c_sharp\2_asp\00_hello\bin\Debug\netcoreapp2.1\00_hello.Views.dll
 C:\dev\c_sharp\2_asp\00_hello\bin\Debug\netcoreapp2.1\00_hello.Views.pdb
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\00_hello.csproj.CopyComplete
+C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\HiThere.g.cshtml.cs
+C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Projects.g.cshtml.cs
