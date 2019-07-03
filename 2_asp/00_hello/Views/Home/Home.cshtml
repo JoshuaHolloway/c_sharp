@@ -26,22 +26,34 @@
             text-align: center;
         }
 
-        #cols { 
+        #cols {
+            text-align: center;
         }
 
         #col-left, #col-right {
             height: 100px;
-            width: 100px;
+            width: 45%;
             opacity: 0.5;
             display: inline-block;
+            vertical-align: top;
         }
 
         #col-left {
             background: red;
+            margin-right: 0.5%;
+            text-align: center;
         }
 
         #col-right {
             background: blue;
+            margin-left: 0.5%;
+        }
+
+        #image {
+            height: 100px;
+            width: 100px;
+            background: blue;
+            text-align: center;
         }
 
         main
@@ -60,8 +72,15 @@
         <h1>About Me</h1>
 
         <div id="cols">
-            <div id="col-left"></div>
-            <div id="col-right"></div>
+            <div id="col-left">
+                /* <img src="C:/dev/c_sharp/2_asp/00_hello/Views/Home/lena.jfif"> */
+                <div id="image">TODO: Place image here</div>
+            </div>  <!-- col-left -->
+            <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+            <div id="col-right">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem veniam maxime, molestias porro harum aliquam quo totam blanditiis hic labore ad facere similique quaerat doloremque incidunt doloribus dignissimos placeat corrupti?</p>
+            </div> <!-- col-right -->
+            
         </div>
 
     </main>
