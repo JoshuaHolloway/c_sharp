@@ -2864,6 +2864,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Home\\TestForm.cshtml",
+      "TargetPath": "Views\\Home\\TestForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\HiThere.cshtml",
       "TargetPath": "Views\\Home\\HiThere.cshtml",
       "FileKind": "mvc"

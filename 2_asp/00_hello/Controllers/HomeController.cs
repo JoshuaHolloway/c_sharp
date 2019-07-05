@@ -7,9 +7,9 @@ namespace HelloASP
         // Requests
         // localhost:5000
         [HttpGet("")]
-        public ViewResult Index()
+        public IActionResult Index()
         {
-            // return "This is my index";
+            ViewBag.Example = "Hello World!";
             ViewResult  myView = View("Home");
             return myView;
         }
@@ -34,5 +34,14 @@ namespace HelloASP
             return myView;
         }
         //---------------------------------------------------------------------
+        [HttpPost]
+        [Route("method")]
+        public IActionResult Method(string TextField, int NumberField)
+        {
+            ViewBag.josh_text = TextField;
+            ViewBag.josh_num = NumberField;
+            ViewResult myView = View("TestForm");
+            return myView;
+        }
     }
 }

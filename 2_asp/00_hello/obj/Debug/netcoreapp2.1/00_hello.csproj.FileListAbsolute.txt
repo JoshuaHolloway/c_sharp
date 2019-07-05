@@ -24,3 +24,4 @@ C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\HiThere.g
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
 C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\Projects.g.cshtml.cs
+C:\dev\c_sharp\2_asp\00_hello\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestForm.g.cshtml.cs

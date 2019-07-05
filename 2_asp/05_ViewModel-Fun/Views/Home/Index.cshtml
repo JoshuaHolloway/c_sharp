@@ -1,0 +1,87 @@
+﻿<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<script>
+    $(document).ready(
+        function () {
+            // Upon click of button-1 do the following
+            $('#debug').on('click', function () {
+                alert('debug');
+            });
+        }
+    );
+        //----------------------------------------------------------------------
+</script>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<style>
+    main {
+        border: black 1px solid;
+        width: 75%;
+        margin: 10px;
+        align-items: center;
+        padding: 1%;
+    }
+    table tr td {
+        width: 50px;
+        height: 50px;
+    }
+    #submit-button {
+        background-color: red;
+        color: white;
+        width: 50%;
+        margin-left: 49%;
+        box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+    }
+    label {
+        display: inline-block;
+    }
+    #name, #location, #language {
+        border-color: black;
+        width: 50%;
+        float: right;
+    }
+    #comment {
+        border-color: black;
+        width: 98%;
+        margin-left: 1%;
+    }
+</style>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<main>
+    <form action='/show' method='post'>
+
+        <div class="form-group">
+            <label for="name">Name: </label>
+            <input type="text" id="name" name="name" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label for="location">Location: </label>
+            <input type="text" id="location" name="location" class="form-control">
+        </div>
+
+        <!-- Drop-down menu -->
+        <div class="form-group">
+            <label for="language">Favorite Language: </label>
+            <select name="language" id="language" class="form-control">
+                <option value="JAVASCRIPT">JavaScript</option>
+                <option value="PYTHON">Python</option>
+                <option value="C++">C++</option>
+                <option value="GO">Go</option>
+            </select>
+        </div>
+
+        <!-- text-area -->
+        <div class="form-group">
+            <label for="comment">Comment (optional):</label>
+            <textarea name="comment" id="comment" rows="4" cols="40" class="form-control"></textarea>
+        </div>
+
+        <!-- submit-button -->
+        <input type='submit' id="submit-button" name="submit-button" value='Submit!' class="form-control"
+                class="shadow-lg p-3 mb-5 bg-white rounded">
+
+    </form>
+</main>
