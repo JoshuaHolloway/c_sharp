@@ -24,4 +24,3 @@ C:\dev\c_sharp\2_asp\05_ViewModel-Fun\obj\Debug\netcoreapp2.1\05_ViewModel-Fun.V
 C:\dev\c_sharp\2_asp\05_ViewModel-Fun\obj\Debug\netcoreapp2.1\05_ViewModel-Fun.dll
 C:\dev\c_sharp\2_asp\05_ViewModel-Fun\obj\Debug\netcoreapp2.1\05_ViewModel-Fun.pdb
 C:\dev\c_sharp\2_asp\05_ViewModel-Fun\obj\Debug\netcoreapp2.1\05_ViewModel-Fun.csproj.CopyComplete
-C:\dev\c_sharp\2_asp\05_ViewModel-Fun\obj\Debug\netcoreapp2.1\Razor\Views\Home\Show.g.cshtml.cs

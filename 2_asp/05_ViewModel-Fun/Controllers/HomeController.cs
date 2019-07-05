@@ -10,24 +10,19 @@ namespace _05_ViewModel_Fun.Controllers
 {
     public class HomeController : Controller
     {
-        //=====================================================================
         [HttpGet]
         [Route("")]
         public IActionResult Index()
         {
-            return View("Index");
+            Person somePerson = new Person()
+            {
+                FirstName = "josh",
+                LastName = "holloway"
+            };
+
+            ViewBag.User = somePerson;
+
+            return View("Index", somePerson);
         }
-        //=====================================================================
-        [HttpPost]
-        [Route("show")]
-        public IActionResult Show(string name, string location, string language, string comment)
-        {
-            ViewBag.name = name;
-            ViewBag.location = location;
-            ViewBag.language = language;
-            ViewBag.comment = comment;
-            return View("Show");
-        }
-        //=====================================================================
     }
 }
