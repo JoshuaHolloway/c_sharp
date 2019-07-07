@@ -1,0 +1,66 @@
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<style>
+    .my-custom-scrollbar {
+        position: relative;
+        height: 200px;
+        overflow: auto;
+    }
+
+    .table-wrapper-scroll-y {
+        display: block;
+    }
+</style>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<main>
+    <a href="/">Home</a>
+
+    <h1>Using ViewModels the first-name is @Model.Name</h1>
+
+
+    <div class="table-wrapper-scroll-y my-custom-scrollbar">
+        <table class="table table-bordered table-striped mb-0">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">Language</th>
+                    <th scope="col">Comment</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <!-- TODO: Add loop right here -->
+                <tr>
+                    <td>@Model.Name</td>
+                    
+                    <!-- <td>@ViewBag.location</td> -->
+                    <td>@Model.Location</td>
+                    
+                    <!-- <td>@ViewBag.language</td> -->
+                    <td>@Model.Language</td>
+                    
+                    <!-- <td>@ViewBag.comment</td> -->
+                    <td>@Model.Comment</td>
+                </tr>
+                <!-- TODO: End loop right here -->
+
+                @foreach(var user in ViewBag.Users)
+                {
+                    <tr>
+                        <td> @user["name"] </td>
+                        <td>@user["location"]</td>
+                        <td>@user["language"]</td>
+                        <td>@user["comment"]</td>
+                    </tr>
+                }
+   
+
+            </tbody>
+        </table>
+    </div>
+</main>
