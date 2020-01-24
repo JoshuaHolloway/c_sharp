@@ -1,0 +1,11 @@
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.exe
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.deps.json
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.runtimeconfig.json
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.runtimeconfig.dev.json
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.dll
+C:\dev\c_sharp\self\00\bin\Debug\netcoreapp3.0\00.pdb
+C:\dev\c_sharp\self\00\obj\Debug\netcoreapp3.0\00.csprojAssemblyReference.cache
+C:\dev\c_sharp\self\00\obj\Debug\netcoreapp3.0\00.AssemblyInfoInputs.cache
+C:\dev\c_sharp\self\00\obj\Debug\netcoreapp3.0\00.AssemblyInfo.cs
+C:\dev\c_sharp\self\00\obj\Debug\netcoreapp3.0\00.dll
+C:\dev\c_sharp\self\00\obj\Debug\netcoreapp3.0\00.pdb
